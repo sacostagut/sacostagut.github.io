@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A Multiscale Study of Phosphorylcholine Driven Cellular Phenotypic Targeting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-04-15-pmpc
+excerpt: 'In this work we report a multiscale study showing how to leverage a promiscuous ligand to achieve phenotypic targeting in vivo. We also highlight the importance of explicitly taking into account the cell glycocalyx in nanomedicines design.'
+date: 2022-04-15
+venue: 'ACS Central Science'
+paperurl: '[https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00146](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00146)'
+citation: 'Acosta-Gutiérrez,S et al. (2022). "A Multiscale Study of Phosphorylcholine Driven Cellular Phenotypic Targeting"; <i>ACS Cen.Sci.</i>. 8, 891–904.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this work we report a multiscale study showing how to leverage a promiscuous ligand to achieve phenotypic targeting in vivo. We also highlight the importance of explicitly taking into account the cell glycocalyx in nanomedicines design.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00146))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Acosta-Gutiérrez,S et al. (2022). "A Multiscale Study of Phosphorylcholine Driven Cellular Phenotypic Targeting"; <i>ACS Cen.Sci.</i>. 8, 891–904.'
